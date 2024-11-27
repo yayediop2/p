@@ -1,0 +1,164 @@
+[
+    {
+        "id": 1,
+        "title": "Quand se lève le brouillard rouge",
+        "author": "Robin Cook",
+        "description": "Un roman policier captivant explorant les mystères et les secrets.",
+        "coverImage": "img/book1.jpg",
+        "available": false,
+        "genre": "Policier"
+    },
+    {
+        "id": 2,
+        "title": "Cinq petits cochons",
+        "author": "Agatha Christie",
+        "description": "Une enquête fascinante de Hercule Poirot résolvant un mystère complexe.",
+        "coverImage": "img/book1.jpg",
+        "available": true,
+        "genre": "Policier"
+    },
+    {
+        "id": 3,
+        "title": "Dix petits nègres",
+        "author": "Agatha Christie",
+        "description": "Un thriller où dix étrangers sont réunis sur une île avec des secrets sombres.",
+        "coverImage": "img/book1.jpg",
+        "available": true,
+        "genre": "Policier"
+    },
+    {
+        "id": 4,
+        "title": "Trauma",
+        "author": "Jeff Abbott",
+        "description": "Un thriller intense explorant les limites du courage et de la survie.",
+        "coverImage": "img/book1.jpg",
+        "available": true,
+        "genre": "Policier"
+    },
+    {
+        "id": 5,
+        "title": "Bouddha",
+        "author": "Clive Cussler et Craig Dirgo",
+        "description": "Un roman d'aventure mêlant action et mystère autour de la quête d'une relique sacrée.",
+        "coverImage": "img/book1.jpg",
+        "available": false,
+        "genre": "Policier"
+    },
+    {
+        "id": 6,
+        "title": "La loi du plus faible",
+        "author": "John Grisham",
+        "description": "Une plongée dans le monde juridique et les dilemmes moraux.",
+        "coverImage": "img/book1.jpg",
+        "available": true,
+        "genre": "Policier"
+    },
+    {
+        "id": 7,
+        "title": "Cadavre X",
+        "author": "Patricia Cornwell",
+        "description": "Une enquête médico-légale haletante menée par Kay Scarpetta.",
+        "coverImage": "img/book1.jpg",
+        "available": true,
+        "genre": "Policier"
+    },
+    {
+        "id": 8,
+        "title": "Les anges brisés de Somerstown",
+        "author": "Graham Hurley",
+        "description": "Un polar noir plongeant dans les bas-fonds d'une ville britannique.",
+        "coverImage": "img/book1.jpg",
+        "available": true,
+        "genre": "Policier"
+    },
+    {
+        "id": 9,
+        "title": "Mort sur le Nil",
+        "author": "Agatha Christie",
+        "description": "Un autre mystère de Hercule Poirot dans le cadre exotique de l'Égypte.",
+        "coverImage": "img/book1.jpg",
+        "available": true,
+        "genre": "Policier"
+    },
+    {
+        "id": 10,
+        "title": "Contours du jour qui vient",
+        "author": "Léonara Miano",
+        "description": "Un récit poignant sur les défis de la vie et la résilience.",
+        "coverImage": "img/book1.jpg",
+        "available": true,
+        "genre": "Africain"
+    },
+    {
+        "id": 11,
+        "title": "L'Iguifou",
+        "author": "Scholastique Mukasonga",
+        "description": "Une exploration riche des traditions et des luttes africaines.",
+        "coverImage": "img/book1.jpg",
+        "available": true,
+        "genre": "Africain"
+    },
+    {
+        "id": 12,
+        "title": "Le monde s'effondre",
+        "author": "Chinua Achebe",
+        "description": "Un classique de la littérature africaine sur le choc des cultures.",
+        "coverImage": "img/book1.jpg",
+        "available": true,
+        "genre": "Africain"
+    },
+    {
+        "id": 13,
+        "title": "La cité de la joie",
+        "author": "Dominique Lapierre",
+        "description": "Un roman émouvant sur l'humanité et l'espoir dans les bidonvilles.",
+        "coverImage": "img/book1.jpg",
+        "available": true,
+        "genre": "Roman"
+    },
+    {
+        "id": 14,
+        "title": "C'était tous les jours tempête",
+        "author": "Jérome Garcin",
+        "description": "Une réflexion introspective sur la vie et ses épreuves.",
+        "coverImage": "img/book1.jpg",
+        "available": true,
+        "genre": "Roman"
+    },
+    {
+        "id": 15,
+        "title": "L'élégance du hérisson",
+        "author": "Muriel Barbery",
+        "description": "Un roman sur l'art de la vie et les connexions humaines inattendues.",
+        "coverImage": "img/book1.jpg",
+        "available": true,
+        "genre": "Roman"
+    },
+    {
+        "id": 16,
+        "title": "Sidérations",
+        "author": "Richard Powers",
+        "description": "Un roman de science-fiction explorant l'interconnexion des êtres vivants.",
+        "coverImage": "img/book1.jpg",
+        "available": true,
+        "genre": "Roman science-fiction"
+    },
+    {
+        "id": 17,
+        "title": "Le Choeur des femmes",
+        "author": "Martin Winckler",
+        "description": "Une exploration des thèmes féminins et de l'humanité.",
+        "coverImage": "img/book1.jpg",
+        "available": true,
+        "genre": "Roman"
+    },
+    {
+        "id": 18,
+        "title": "Je te reparlerai d'amour",
+        "author": "Pascal Jardin",
+        "description": "Une histoire intime et poétique sur l'amour et les souvenirs.",
+        "coverImage": "img/book1.jpg",
+        "available": true,
+        "genre": "Roman"
+    }
+]
