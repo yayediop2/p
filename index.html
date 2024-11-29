@@ -38,82 +38,8 @@
         </div>
     </div>
 
-    <script>
-        async function fetchBooks() {
-            try {
-                const response = await fetch('books.json');
-                return await response.json();
-            } catch (error) {
-                console.error('Error fetching books:', error);
-                return [];
-            }
-        }
-
-        function createBookCard(book) {
-    const availabilityClass = book.available 
-        ? 'bg-accent-green text-white' 
-        : 'bg-red-500 text-white';
-
-    return `
-        <div class="relative flex flex-col text-gray-700 bg-white shadow-md bg-clip-border rounded-xl overflow-hidden transition hover:shadow-2xl hover:scale-105">
-            <div class="relative flex justify-center items-center mx-4 mt-4 overflow-hidden bg-white rounded-xl h-96">
-                <img 
-                    src="${book.coverImage}" 
-                    alt="${book.title}" 
-                    class="object-cover w-auto h-full rounded-xl"
-                />
-            </div>
-            <div class="p-6">
-                <div class="flex items-center justify-between mb-2">
-                    <p class="block font-sans text-base font-medium leading-relaxed text-library-blue">
-                        ${book.title}
-                    </p>
-                    <p class="block font-sans text-sm font-medium leading-relaxed text-gray-500">
-                        ${book.genre || 'No Genre'}
-                    </p>
-                </div>
-                <p class="block font-sans text-sm font-normal leading-normal text-gray-700 opacity-75">
-                    ${book.description}
-                </p>
-            </div>
-            <div class="flex justify-between items-center p-6 pt-0">
-                <span class="px-3 py-1 text-sm font-medium rounded-full ${availabilityClass}">
-                    ${book.available ? 'Disponible' : 'Non disponible'}
-                </span>
-               
-            </div>
-        </div>
-    `;
-}
-
-
-
-
-        async function renderBooks() {
-            const bookGrid = document.getElementById('bookGrid');
-            const searchInput = document.getElementById('searchInput');
-            const books = await fetchBooks();
-
-            function displayBooks(filteredBooks) {
-                bookGrid.innerHTML = filteredBooks.length
-                    ? filteredBooks.map(createBookCard).join('')
-                    : '<p class="col-span-full text-center text-gray-500">No books found</p>';
-            }
-
-            displayBooks(books);
-
-            searchInput.addEventListener('input', (e) => {
-                const searchTerm = e.target.value.toLowerCase();
-                const filteredBooks = books.filter(book =>
-                    book.title.toLowerCase().includes(searchTerm) ||
-                    book.author.toLowerCase().includes(searchTerm) ||
-                    (book.genre && book.genre.toLowerCase().includes(searchTerm))
-                );
-                displayBooks(filteredBooks);
-            });
-        }
-
-        renderBooks();
+    <script src="index.js" type="module">
+        
     </script>
 </body>
 
