@@ -13,7 +13,7 @@
         "title": "Cinq petits cochons",
         "author": "Agatha Christie",
         "description": "Dans cette enquête fascinante, Hercule Poirot s'attaque à un meurtre vieux de 16 ans. Cinq suspects, cinq récits différents : le célèbre détective démêle un enchevêtrement de mensonges pour révéler la vérité. Avec un style brillant et des rebondissements, Agatha Christie signe un chef-d'œuvre du genre policier.",
-        "coverImage": "img/book1.jpg",
+        "coverImage": "https://www.babelio.com/couv/CVT_Dans-les-bois_8544.jpg",
         "available": true,
         "genre": "Policier"
     },
@@ -22,7 +22,7 @@
         "title": "Dix petits nègres",
         "author": "Agatha Christie",
         "description": "Un classique du suspense : dix inconnus sont invités sur une île isolée, où un mystérieux hôte les accuse de crimes passés. Les meurtres se succèdent à un rythme implacable, créant une atmosphère terrifiante. Un récit incontournable pour les amateurs de thrillers psychologiques.",
-        "coverImage": "img/book1.jpg",
+        "coverImage": "https://www.babelio.com/couv/CVT_Dans-les-bois_8544.jpg",
         "available": true,
         "genre": "Policier"
     },
@@ -31,7 +31,7 @@
         "title": "Trauma",
         "author": "Jeff Abbott",
         "description": "Un thriller intense où un homme doit affronter les fantômes de son passé pour sauver sa famille. Entre complots, trahisons et révélations bouleversantes, ce roman explore les limites du courage, de la résilience et de la survie. Une lecture captivante, pleine de tension.",
-        "coverImage": "img/book1.jpg",
+        "coverImage": "https://www.babelio.com/couv/CVT_Dans-les-bois_8544.jpg",
         "available": true,
         "genre": "Policier"
     },
@@ -40,7 +40,7 @@
         "title": "Bouddha",
         "author": "Clive Cussler et Craig Dirgo",
         "description": "Dans ce roman d'aventure palpitant, une relique sacrée est au cœur d'une quête qui mêle action, mystères et paysages exotiques. Les héros affrontent des adversaires redoutables, résolvant des énigmes et déjouant des pièges mortels. Une intrigue riche en rebondissements, parfaite pour les amateurs de sensations fortes.",
-        "coverImage": "img/book1.jpg",
+        "coverImage": "https://www.babelio.com/couv/CVT_Dans-les-bois_8544.jpg",
         "available": false,
         "genre": "Policier"
     },
@@ -49,7 +49,7 @@
         "title": "La loi du plus faible",
         "author": "John Grisham",
         "description": "Plongée dans les arcanes du monde juridique, ce roman met en lumière les dilemmes moraux et les luttes des personnages face à des systèmes imparfaits. Une intrigue captivante, où justice et corruption s'affrontent, signée par un maître du suspense juridique.",
-        "coverImage": "img/book1.jpg",
+        "coverImage": "https://www.babelio.com/couv/CVT_Dans-les-bois_8544.jpg",
         "available": true,
         "genre": "Policier"
     },
@@ -58,7 +58,7 @@
         "title": "Cadavre X",
         "author": "Patricia Cornwell",
         "description": "L'experte médico-légale Kay Scarpetta est confrontée à une série de meurtres troublants. Entre indices subtils, tensions psychologiques et analyses scientifiques, ce roman offre un voyage haletant au cœur d'une enquête palpitante. Patricia Cornwell brille par sa maîtrise des détails et du suspense.",
-        "coverImage": "img/book1.jpg",
+        "coverImage": "https://www.babelio.com/couv/CVT_Dans-les-bois_8544.jpg",
         "available": true,
         "genre": "Policier"
     },
@@ -67,7 +67,7 @@
         "title": "Les anges brisés de Somerstown",
         "author": "Graham Hurley",
         "description": "Ce polar noir plonge dans les bas-fonds d'une ville britannique gangrenée par le crime et la corruption. Avec des personnages complexes et une atmosphère sombre, Graham Hurley tisse une intrigue immersive et poignante, où le bien et le mal s'entrelacent subtilement.",
-        "coverImage": "img/book1.jpg",
+        "coverImage": "https://www.babelio.com/couv/CVT_Dans-les-bois_8544.jpg",
         "available": true,
         "genre": "Policier"
     },
@@ -76,7 +76,7 @@
         "title": "Mort sur le Nil",
         "author": "Agatha Christie",
         "description": "Dans le cadre exotique et envoûtant de l'Égypte, Hercule Poirot enquête sur un meurtre survenu lors d'une croisière sur le Nil. Entre jalousies, trahisons et secrets, ce roman offre un savant mélange de mystère et de dépaysement. Une œuvre emblématique de la reine du crime.",
-        "coverImage": "img/book1.jpg",
+        "coverImage": "https://www.babelio.com/couv/CVT_Dans-les-bois_8544.jpg",
         "available": true,
         "genre": "Policier"
     },
@@ -85,7 +85,7 @@
         "title": "Contours du jour qui vient",
         "author": "Léonara Miano",
         "description": "Un récit poignant qui explore les défis d'une jeune fille en quête d'identité et de sens dans un monde marqué par la violence et l'instabilité. Léonara Miano offre une réflexion profonde sur la résilience humaine et la quête de dignité dans l'adversité.",
-        "coverImage": "img/book1.jpg",
+        "coverImage": "https://www.babelio.com/couv/CVT_Dans-les-bois_8544.jpg",
         "available": true,
         "genre": "Africain"
     }
