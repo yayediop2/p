@@ -1,0 +1,20 @@
+[
+    {
+        "git": "yayediop",
+        "first name": "Yaye Fatou",
+        "last name": "Diop",
+        "role": "admin"
+    },
+    {
+        "git": "fifi",
+        "first name": "Yaye Fifi",
+        "last name": "Lo",
+        "role": "visitor"
+    },
+    {
+        "git": "lolo",
+        "first name": "Loloski",
+        "last name": "Sarr",
+        "role": "visitor"
+    }
+]

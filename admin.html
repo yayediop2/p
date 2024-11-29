@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 flex items-center justify-center min-h-screen">
+    <div class="bg-white shadow-md rounded-xl p-8 max-w-2xl w-full">
+        <h1 class="text-3xl font-bold text-library-blue mb-6">Admin Dashboard</h1>
+        <p class="text-gray-700 leading-relaxed">
+            Welcome to the admin dashboard. As an administrator, you have special access to manage the library system. 
+            This page provides an overview of administrative capabilities and system management tools.
+        </p>
+        <div class="mt-6">
+            <button 
+                id="logout-btn"
+                class="bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
+            >
+                Logout
+            </button>
+        </div>
+    </div>
+
+    <script>
+        // Check if user is admin
+        const currentUser = JSON.parse(localStorage.getItem('currentUser'));
+        if (!currentUser || currentUser.role !== 'admin') {
+            window.location.href = 'login.html';
+        }
+
+        // Logout functionality
+        document.getElementById('logout-btn').addEventListener('click', () => {
+            localStorage.removeItem('currentUser');
+            window.location.href = 'login.html';
+        });
+    </script>
+</body>
+</html>

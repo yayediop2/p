@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Library Access</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-gray-100 flex items-center justify-center min-h-screen">
+    <div class="w-full max-w-md">
+        <form id="login-form" class="bg-white shadow-md rounded-xl px-8 pt-6 pb-8 mb-4">
+            <div class="mb-4">
+                <label class="block text-gray-700 text-sm font-bold mb-2" for="gitUsername">
+                    Enter Git Username
+                </label>
+                <input id="gitUsername" type="text" placeholder="Git Username"
+                    class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+                <p id="error-message" class="text-red-500 text-xs italic mt-2 hidden">Invalid username</p>
+            </div>
+            <div class="flex items-center justify-center">
+                <button type="submit"
+                    class="bg-library-blue hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">
+                    Access Library
+                </button>
+            </div>
+        </form>
+    </div>
+
+    <script type="module">
+        async function fetchUsers() {
+            try {
+                const response = await fetch('users.json');
+                return await response.json();
+            } catch (error) {
+                console.error('Error fetching users:', error);
+                return [];
+            }
+        }
+        const users = await fetchUsers();
+
+        document.getElementById('login-form').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const gitUsernameInput = document.getElementById('gitUsername');
+            const errorMessage = document.getElementById('error-message');
+            const username = gitUsernameInput.value.trim();
+
+            // Find user in the users list
+            const user = users.find(u => u.git === username);
+
+            if (user) {
+                // Store user info in localStorage
+                localStorage.setItem('currentUser', JSON.stringify(user));
+
+                // Redirect based on role
+                if (user.role === 'admin') {
+                    window.location.href = 'admin.html';
+                } else {
+                    window.location.href = 'index.html';
+                }
+            } else {
+                // Show error message
+                errorMessage.textContent = 'Invalid username. Access denied.';
+                errorMessage.classList.remove('hidden');
+            }
+        });
+    </script>
+</body>
+
+</html>
