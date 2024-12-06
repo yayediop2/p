@@ -3,17 +3,17 @@
         "id": 1,
         "title": "Quand se lève le brouillard rouge",
         "author": "Robin Cook",
-        "description": "Un roman policier captivant explorant les mystères et les secrets entourant des événements inexplicables. Robin Cook mêle suspense, drame et investigations complexes dans une ambiance oppressante, où chaque révélation intensifie le mystère. Ce livre plonge le lecteur dans un univers où la vérité semble constamment échapper.",
-        "coverImage": "https://www.babelio.com/couv/CVT_Dans-les-bois_8544.jpg",
-        "available": false,
+        "description": "Un thriller médical haletant qui plonge le lecteur dans les coulisses sombres du monde hospitalier. L'intrigue suit un médecin confronté à une série de décès mystérieux qui semblent cacher un complot bien plus profond que de simples accidents médicaux.",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/519S9KM967L._SX210_.jpg",
+        "available": true,
         "genre": "Policier"
     },
     {
         "id": 2,
         "title": "Cinq petits cochons",
         "author": "Agatha Christie",
-        "description": "Dans cette enquête fascinante, Hercule Poirot s'attaque à un meurtre vieux de 16 ans. Cinq suspects, cinq récits différents : le célèbre détective démêle un enchevêtrement de mensonges pour révéler la vérité. Avec un style brillant et des rebondissements, Agatha Christie signe un chef-d'œuvre du genre policier.",
-        "coverImage": "https://www.babelio.com/couv/CVT_Dans-les-bois_8544.jpg",
+        "description": "Un classique de la reine du crime, où Hercule Poirot est chargé de rouvrir une vieille affaire de meurtre. Cinq suspects, cinq versions différentes d'un même événement, et un détective brillant qui démêlera l'écheveau de la vérité.",
+        "coverImage": "https://www.babelio.com/couv/CVT_CVT_Cinq-Petits-Cochons_3853.jpg",
         "available": true,
         "genre": "Policier"
     },
@@ -21,8 +21,8 @@
         "id": 3,
         "title": "Dix petits nègres",
         "author": "Agatha Christie",
-        "description": "Un classique du suspense : dix inconnus sont invités sur une île isolée, où un mystérieux hôte les accuse de crimes passés. Les meurtres se succèdent à un rythme implacable, créant une atmosphère terrifiante. Un récit incontournable pour les amateurs de thrillers psychologiques.",
-        "coverImage": "https://www.babelio.com/couv/CVT_Dans-les-bois_8544.jpg",
+        "description": "Un roman policier culte où dix personnes sont piégées sur une île isolée, mourant les unes après les autres selon une mystérieuse comptine. Un huis clos psychologique qui explore les méandres de la culpabilité et du châtiment.",
+        "coverImage": "https://www.babelio.com/couv/CVT_Dix-petits-negres-Theatre_189.jpg",
         "available": true,
         "genre": "Policier"
     },
@@ -30,8 +30,8 @@
         "id": 4,
         "title": "Trauma",
         "author": "Jeff Abbott",
-        "description": "Un thriller intense où un homme doit affronter les fantômes de son passé pour sauver sa famille. Entre complots, trahisons et révélations bouleversantes, ce roman explore les limites du courage, de la résilience et de la survie. Une lecture captivante, pleine de tension.",
-        "coverImage": "https://www.babelio.com/couv/CVT_Dans-les-bois_8544.jpg",
+        "description": "Un thriller psychologique intense qui suit un homme hanté par un traumatisme passé. Entre vengeance personnelle et quête de vérité, le protagoniste se retrouve plongé dans un labyrinthe de secrets mortels.",
+        "coverImage": "https://www.babelio.com/couv/CVT_Trauma_5498.jpg",
         "available": true,
         "genre": "Policier"
     },
@@ -39,17 +39,17 @@
         "id": 5,
         "title": "Bouddha",
         "author": "Clive Cussler et Craig Dirgo",
-        "description": "Dans ce roman d'aventure palpitant, une relique sacrée est au cœur d'une quête qui mêle action, mystères et paysages exotiques. Les héros affrontent des adversaires redoutables, résolvant des énigmes et déjouant des pièges mortels. Une intrigue riche en rebondissements, parfaite pour les amateurs de sensations fortes.",
-        "coverImage": "https://www.babelio.com/couv/CVT_Dans-les-bois_8544.jpg",
-        "available": false,
+        "description": "Une aventure épique mêlant histoire, action et mystère. Les auteurs nous entraînent dans une quête fascinante autour de l'héritage spirituel et historique de Bouddha, avec des rebondissements dignes des meilleurs romans d'aventure.",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51Plf7WtOaL._SX210_.jpg",
+        "available": true,
         "genre": "Policier"
     },
     {
         "id": 6,
         "title": "La loi du plus faible",
         "author": "John Grisham",
-        "description": "Plongée dans les arcanes du monde juridique, ce roman met en lumière les dilemmes moraux et les luttes des personnages face à des systèmes imparfaits. Une intrigue captivante, où justice et corruption s'affrontent, signée par un maître du suspense juridique.",
-        "coverImage": "https://www.babelio.com/couv/CVT_Dans-les-bois_8544.jpg",
+        "description": "Un roman judiciaire captivant qui explore les méandres de la justice américaine. Un avocat ambitieux se retrouve confronté à un système où les puissants semblent toujours gagner, et décide de tout risquer pour défendre la vérité.",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/5109N1VAFDL._SX210_.jpg",
         "available": true,
         "genre": "Policier"
     },
@@ -57,8 +57,8 @@
         "id": 7,
         "title": "Cadavre X",
         "author": "Patricia Cornwell",
-        "description": "L'experte médico-légale Kay Scarpetta est confrontée à une série de meurtres troublants. Entre indices subtils, tensions psychologiques et analyses scientifiques, ce roman offre un voyage haletant au cœur d'une enquête palpitante. Patricia Cornwell brille par sa maîtrise des détails et du suspense.",
-        "coverImage": "https://www.babelio.com/couv/CVT_Dans-les-bois_8544.jpg",
+        "description": "Un thriller médico-légal qui suit le Dr Kay Scarpetta dans une enquête complexe sur un meurtre mystérieux. L'auteure déploie son expertise pour créer un récit haletant où chaque détail forensique pourrait être la clé de l'énigme.",
+        "coverImage": "https://www.babelio.com/couv/CVT_cvt_Cadavre-X_728.jpg",
         "available": true,
         "genre": "Policier"
     },
@@ -66,27 +66,253 @@
         "id": 8,
         "title": "Les anges brisés de Somerstown",
         "author": "Graham Hurley",
-        "description": "Ce polar noir plonge dans les bas-fonds d'une ville britannique gangrenée par le crime et la corruption. Avec des personnages complexes et une atmosphère sombre, Graham Hurley tisse une intrigue immersive et poignante, où le bien et le mal s'entrelacent subtilement.",
-        "coverImage": "https://www.babelio.com/couv/CVT_Dans-les-bois_8544.jpg",
+        "description": "Un polar noir qui plonge le lecteur dans les quartiers sombres d'une ville anglaise. L'intrigue explore les zones grises de la société, où la violence et la rédemption coexistent dans un équilibre précaire.",
+        "coverImage": "https://www.babelio.com/couv/CVT_Les-anges-brises-de-Somerstown_6487.jpg",
         "available": true,
         "genre": "Policier"
     },
     {
         "id": 9,
-        "title": "Mort sur le Nil",
+        "title": "Mort sur nil",
         "author": "Agatha Christie",
-        "description": "Dans le cadre exotique et envoûtant de l'Égypte, Hercule Poirot enquête sur un meurtre survenu lors d'une croisière sur le Nil. Entre jalousies, trahisons et secrets, ce roman offre un savant mélange de mystère et de dépaysement. Une œuvre emblématique de la reine du crime.",
-        "coverImage": "https://www.babelio.com/couv/CVT_Dans-les-bois_8544.jpg",
+        "description": "Un classique d'Agatha Christie situé dans un cadre exotique. Hercule Poirot enquête sur un meurtre commis lors d'une croisière sur le Nil, démêlant avec perspicacité un réseau de mensonges et de motivations criminelles.",
+        "coverImage": "https://www.babelio.com/couv/CVT_Mort-sur-le-Nil-Meurtre-sur-le-Nil_4826.jpg",
         "available": true,
         "genre": "Policier"
     },
     {
         "id": 10,
         "title": "Contours du jour qui vient",
-        "author": "Léonara Miano",
-        "description": "Un récit poignant qui explore les défis d'une jeune fille en quête d'identité et de sens dans un monde marqué par la violence et l'instabilité. Léonara Miano offre une réflexion profonde sur la résilience humaine et la quête de dignité dans l'adversité.",
-        "coverImage": "https://www.babelio.com/couv/CVT_Dans-les-bois_8544.jpg",
+        "author": "Léonora Miano",
+        "description": "Un roman profond qui explore l'identité, l'appartenance et les trajectoires personnelles. L'écriture sensible de Miano offre un portrait nuancé des expériences africaines contemporaines, entre tradition et modernité.",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/41mMJjtRnpL._SX210_.jpg",
         "available": true,
         "genre": "Africain"
+    },
+    {
+        "id": 11,
+        "title": "L'Iguifou",
+        "author": "Scholastique Mukasonga",
+        "description": "Un récit poignant qui explore les traumatismes du génocide rwandais à travers une écriture poétique et résiliente. Mukasonga dévoile avec sensibilité les blessures individuelles et collectives d'un peuple marqué par l'histoire.",
+        "coverImage": "https://www.babelio.com/couv/CVT_CVT_LIguifou-nouvelles-rwandaises_609.jpg",
+        "available": true,
+        "genre": "Africain"
+    },
+    {
+        "id": 12,
+        "title": "Le monde s'effondre",
+        "author": "Chinua Achebe",
+        "description": "Un roman fondamental de la littérature africaine qui raconte la désagrégation des sociétés traditionnelles face à la colonisation. Achebe offre une perspective nuancée sur le choc des cultures et la perte des valeurs ancestrales.",
+        "coverImage": "https://www.babelio.com/couv/CVT_cvt_Le-monde-seffondre_7632.jpg",
+        "available": true,
+        "genre": "Africain"
+    },
+    {
+        "id": 13,
+        "title": "La cité de la joie",
+        "author": "Dominique Lapierre",
+        "description": "Un roman humaniste qui dépeint la vie dans les bidonvilles de Calcutta. À travers des personnages touchants, Lapierre célèbre la dignité et la résilience humaine face à la pauvreté extrême.",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/41PY13WF8ML._SX210_.jpg",
+        "available": true,
+        "genre": "Roman"
+    },
+    {
+        "id": 14,
+        "title": "C'était tous les jours tempête",
+        "author": "Jérôme Garcin",
+        "description": "Un récit autobiographique sensible qui explore les liens familiaux, les souvenirs et les turbulences de l'existence. Garcin compose un portrait intime où la mélancolie côtoie l'espoir.",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51DKSD4PRHL._SX195_.jpg",
+        "available": true,
+        "genre": "Roman"
+    },
+    {
+        "id": 15,
+        "title": "L'élégance du hérisson",
+        "author": "Muriel Barbery",
+        "description": "Un roman philosophique subtil qui suit deux personnages en apparence marginaux : une concierge érudite et une jeune fille brillante. Une réflexion profonde sur l'intelligence, les apparences et la beauté intérieure.",
+        "coverImage": "https://www.babelio.com/couv/CVT_Lelegance-du-herisson_4679.jpg",
+        "available": true,
+        "genre": "Roman"
+    },
+    {
+        "id": 16,
+        "title": "Sidérations",
+        "author": "Richard Powers",
+        "description": "Un roman de science-fiction qui explore les liens entre l'humanité et la technologie. Powers propose une réflexion profonde sur l'intelligence artificielle, la conscience et les frontières entre l'humain et la machine.",
+        "coverImage": "https://www.babelio.com/couv/CVT_Siderations_2746.jpg",
+        "available": true,
+        "genre": "Roman science-fiction"
+    },
+    {
+        "id": 17,
+        "title": "Le Chœur des femmes",
+        "author": "Martin Winckler",
+        "description": "Un roman qui met en lumière les expériences et les voix féminines. Winckler tisse un récit sensible et engagé sur les parcours de femmes, leurs luttes et leurs solidarités.",
+        "coverImage": "https://m.media-amazon.com/images/I/51HiKw1M-bL._SX195_.jpg",
+        "available": true,
+        "genre": "Roman"
+    },
+    {
+        "id": 18,
+        "title": "Je te reparlerai d'amour",
+        "author": "Pascal Jardin",
+        "description": "Un roman intimiste qui explore les méandres de l'amour, de la mémoire et de la mélancolie. Jardin compose une prose délicate sur les relations humaines et leurs fragments.",
+        "coverImage": "https://media.groupe.gallimard.fr/media/couvHD/I22256.jpg",
+        "available": true,
+        "genre": "Roman"
+    },
+    {
+        "id": 19,
+        "title": "Ceux qui osent",
+        "author": "Pierre Bordage",
+        "description": "Un roman qui célèbre le courage et la résistance. Bordage met en scène des personnages qui défient l'adversité et inventent de nouveaux chemins de liberté.",
+        "coverImage": "https://www.babelio.com/couv/CVT_Ceux-qui-osent_6350.jpeg",
+        "available": true,
+        "genre": "Roman"
+    },
+    {
+        "id": 20,
+        "title": "Le voyage de Théo",
+        "author": "Catherine Clément",
+        "description": "Un récit initiatique qui suit le parcours philosophique d'un jeune homme à la recherche de sens. Clément invite le lecteur à une réflexion profonde sur l'existence et la quête de soi.",
+        "coverImage": "https://www.babelio.com/couv/CVT_Le-Voyage-de-Theo_8240.jpg",
+        "available": true,
+        "genre": "Roman"
+    },
+    {
+        "id": 21,
+        "title": "L'âge des low tech",
+        "author": "Philippe Bihouix",
+        "description": "Un essai visionnaire qui propose une réflexion critique sur la dépendance technologique. Bihouix explore des solutions alternatives plus durables et résilientes, remettant en question notre rapport à la technologie moderne.",
+        "coverImage": "https://www.babelio.com/couv/CVT_C_Lge-des-low-tech_900.jpg",
+        "available": true,
+        "genre": "Essai"
+    },
+    {
+        "id": 22,
+        "title": "Ma cosmétique minimaliste",
+        "author": "Pauline Dehecq",
+        "description": "Un guide pratique pour une approche plus naturelle et simple des soins personnels. Dehecq propose des solutions de beauté écologiques, économiques et respectueuses du corps.",
+        "coverImage": "https://images-eu.ssl-images-amazon.com/images/I/41oild4anYL._SX195_.jpg",
+        "available": true,
+        "genre": "Guide pratique"
+    },
+    {
+        "id": 23,
+        "title": "Antoine",
+        "author": "Daphne Blachere-Cavalié",
+        "description": "Un roman sénégalais qui explore les trajectoires personnelles et les défis de la jeunesse contemporaine. Un récit sensible sur l'identité, les aspirations et les transformations sociales.",
+        "coverImage": "https://m.media-amazon.com/images/I/61bmMeZUJfL._SL1500_.jpg",
+        "available": true,
+        "genre": "Roman sénégalais"
+    },
+    {
+        "id": 24,
+        "title": "Les Impatientes",
+        "author": "Djaili Amadou Amal",
+        "description": "Un roman puissant qui met en lumière les défis et la résilience des femmes dans la société africaine. Amal dépeint avec force les traditions, les oppression et les espoirs de femmes courageuses.",
+        "coverImage": "https://www.babelio.com/couv/CVT_Les-impatientes_9597.jpg",
+        "available": true,
+        "genre": "Roman sénégalais"
+    },
+    {
+        "id": 25,
+        "title": "La mystérieuse disparition du talibé",
+        "author": "Hamidou Bah",
+        "description": "Un roman qui aborde la question sensible des enfants talibés au Sénégal. Bah explore avec sensibilité les enjeux sociaux, éducatifs et humains liés à cette problématique complexe.",
+        "coverImage": "https://m.media-amazon.com/images/I/41PjPclNZqL._SY445_SX342_.jpg",
+        "available": true,
+        "genre": "Roman sénégalais"
+    },
+    {
+        "id": 26,
+        "title": "Un indigène à Gorée",
+        "author": "Moustapha Ndene Ndiaye",
+        "description": "Un roman qui explore l'histoire et la mémoire à travers le prisme d'un personnage ancré dans le contexte historique de Gorée. Ndiaye interroge les héritages coloniaux et l'identité sénégalaise.",
+        "coverImage": "https://labouquinerie.sn/wp-content/uploads/2021/07/B2421.jpg",
+        "available": true,
+        "genre": "Roman sénégalais"
+    },
+    {
+        "id": 27,
+        "title": "LIMOOR (L'oubli)",
+        "author": "Nfally Badiane",
+        "description": "Un récit poétique qui questionne la mémoire, l'identité et les traces laissées par l'histoire. Badiane explore les mécanismes de l'oubli et de la résilience culturelle.",
+        "coverImage": "https://www.librairienumeriqueafricaine.com/sites/default/files/styles/medium/public/couv_livrel/9782370151278.jpg?itok=CUDpRRjV",
+        "available": true,
+        "genre": "Roman sénégalais"
+    },
+    {
+        "id": 28,
+        "title": "La Cheffe, roman d'une cuisinière",
+        "author": "Marie Ndiaye",
+        "description": "Un roman sophistiqué qui suit le parcours d'une femme dans le monde de la cuisine. Ndiaye décortique avec finesse les enjeux de passion, de création et d'émancipation professionnelle.",
+        "coverImage": "https://images-eu.ssl-images-amazon.com/images/I/51mWHCDuKzL._SX195_.jpg",
+        "available": true,
+        "genre": "Roman sénégalais"
+    },
+    {
+        "id": 29,
+        "title": "Nini Mulatresse du Sénégal",
+        "author": "Abdoulaye Sadji",
+        "description": "Un classique de la littérature sénégalaise qui explore les complexités de l'identité métisse dans la société coloniale. Sadji offre un portrait nuancé des dynamiques sociales et culturelles.",
+        "coverImage": "https://www.babelio.com/couv/CVT_Nini-mulatresse-du-Senegal_9107.jpg",
+        "available": true,
+        "genre": "Roman sénégalais"
+    },
+    {
+        "id": 30,
+        "title": "Les contes d'Amadou Koumba",
+        "author": "Birago Diop",
+        "description": "Un recueil de contes traditionnels qui transmet la sagesse orale africaine. Diop préserve et célèbre l'héritage culturel à travers des récits riches en symbolisme et en enseignements.",
+        "coverImage": "https://www.babelio.com/couv/CVT_Les-contes-dAmadou-Koumba_2945.jpg",
+        "available": true,
+        "genre": "Roman sénégalais"
+    },
+    {
+        "id": 31,
+        "title": "Au-delà de minuit",
+        "author": "Souleyanta Ndiaye",
+        "description": "Un recueil de poésie qui explore les territoires de l'intime, de la nuit et de l'intériorité. Ndiaye tisse des vers qui transcendent le temps et l'espace.",
+        "coverImage": "aaaaaaaa",
+        "available": true,
+        "genre": "Poésie sénégalaise"
+    },
+    {
+        "id": 32,
+        "title": "La Patte du Mal",
+        "author": "Hamidou Bah",
+        "description": "Un roman noir qui plonge le lecteur dans les profondeurs psychologiques du mal. Bah explore les frontières troubles entre le bien et le mal dans une intrigue captivante.",
+        "coverImage": "https://www.editions-harmattan.fr/media/92169/download/9782343156897r.jpg?v=1",
+        "available": true,
+        "genre": "Roman sénégalais"
+    },
+    {
+        "id": 33,
+        "title": "La concession",
+        "author": "Ndeye Fatou Ndiaye",
+        "description": "Un roman qui décortique les dynamiques sociales et familiales dans un contexte sénégalais contemporain. Ndiaye offre un regard aigu sur les transformations sociales.",
+        "coverImage": "https://senegal.harmattan.fr/catalogue/couv/9782343152189r.jpg",
+        "available": true,
+        "genre": "Roman sénégalais"
+    },
+    {
+        "id": 34,
+        "title": "Dans les chaînes du silence",
+        "author": "Ndeye Fatou Ndiaye",
+        "description": "Un récit poignant sur les non-dits familiaux et les traumatismes sociaux. Ndiaye explore avec sensibilité les mécanismes du silence et de la libération.",
+        "coverImage": "https://senegal.harmattan.fr/catalogue/couv/9782343190952r.jpg",
+        "available": true,
+        "genre": "Roman sénégalais"
+    },
+    {
+        "id": 35,
+        "title": "L'Alchimiste",
+        "author": "Paulo Coelho",
+        "description": "Un roman philosophique devenu un classique mondial. Coelho raconte le voyage initiatique de Santiago, un jeune berger à la recherche de son trésor personnel, une métaphore puissante sur la quête de sens et de réalisation de soi.",
+        "coverImage": "https://www.babelio.com/couv/CVT_Lalchimiste_7971.jpg",
+        "available": true,
+        "genre": "Roman"
     }
 ]
+    
